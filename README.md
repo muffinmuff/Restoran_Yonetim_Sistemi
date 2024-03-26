@@ -1,1 +1,3 @@
-# Restoran_Yonetim_Sistemi
+# ***Restoran_Yonetim_Sistemi***
+___
+***Simple restaurant management system***
